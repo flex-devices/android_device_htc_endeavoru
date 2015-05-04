@@ -13,5 +13,6 @@
     "remote": "tm",
     "repository": "proprietary_vendor_htc",
     "target_path": "vendor/htc"
+    "revision": "cm-12.1"
  }   
  ]
