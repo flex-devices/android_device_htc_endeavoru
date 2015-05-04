@@ -1,10 +1,17 @@
 [
  {
+   "remote": "cm",
    "repository": "android_device_htc_tegra3-common",
    "target_path": "device/htc/tegra3-common"
  },
  {
+   "remote": "cm",
    "repository": "android_kernel_htc_endeavoru",
    "target_path": "kernel/htc/endeavoru"
- }
-]
+ },
+ {
+    "remote": "tm",
+    "repository": "proprietary_vendor_htc",
+    "target_path": "vendor/htc"
+ }   
+ ]
